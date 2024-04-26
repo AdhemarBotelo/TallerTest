@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTaller</string>
+    <string name="usuario">Usuario</string>
+    <string name="login">LogIn</string>
+    <string name="usuario_o_pwd_incorrect">Usuario o pwd incorrect</string>
+    <string name="usuario_logueado">Usuario logueado</string>
+</resources>
